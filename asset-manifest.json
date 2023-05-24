@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shopproject/static/css/main.c75d73ca.css",
+    "main.css": "/shopproject/static/css/main.f4830d0e.css",
     "main.js": "/shopproject/static/js/main.e81f0b1f.js",
     "static/media/lebron4black.jpg": "/shopproject/static/media/lebron4black.d0814309732e152e4ce5.jpg",
     "static/media/kukini4blue.jpg": "/shopproject/static/media/kukini4blue.bf98807ad409e90a1d3f.jpg",
@@ -180,11 +180,11 @@
     "static/media/dickies2white.jpg": "/shopproject/static/media/dickies2white.e71ee0f4efcb7ae720ad.jpg",
     "static/media/dickies1white.jpg": "/shopproject/static/media/dickies1white.7ac11174c737743108ea.jpg",
     "index.html": "/shopproject/index.html",
-    "main.c75d73ca.css.map": "/shopproject/static/css/main.c75d73ca.css.map",
+    "main.f4830d0e.css.map": "/shopproject/static/css/main.f4830d0e.css.map",
     "main.e81f0b1f.js.map": "/shopproject/static/js/main.e81f0b1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c75d73ca.css",
+    "static/css/main.f4830d0e.css",
     "static/js/main.e81f0b1f.js"
   ]
 }
